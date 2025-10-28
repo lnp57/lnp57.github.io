@@ -1,12 +1,14 @@
 ---
 layout: page
-title: project 1
+title: Personalized Biosignal Interfaces
 description: with background image
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
+
+Humans interact with dynamic machines and devices, such as computers, quadrotors, and cars in daily life. These interactions give rise to a human-in-the-loop control system, where the human and the machine jointly accomplish a task through one or more sensorimotor loops. For instance, in trajectory-tracking tasks, people can visually observe the machine and provide input through a manual interface, such as a mouse, joystick, or steering wheel. 
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
