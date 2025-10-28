@@ -20,10 +20,6 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 Hi, I'm Lauren Peterson (she/her). I'm a graduate student at Rice University in the Electrical Engineering & Computing Department.
