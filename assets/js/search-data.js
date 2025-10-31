@@ -82,7 +82,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-online-smooth-convex-optimization",
           title: 'Online Smooth Convex Optimization',
-          description: "a project with a background image and giscus comments",
+          description: "Post-baccalaureate project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-emg-designing-for-diversity",
