@@ -77,7 +77,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-personalized-biosignal-interfaces",
           title: 'Personalized Biosignal Interfaces',
-          description: "with background image",
+          description: "Undergraduate project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-online-smooth-convex-optimization",
