@@ -1,10 +1,9 @@
 ---
 layout: page
 title: EMG Designing for Diversity
-description: a project that redirects to another website
+description: Graduate student project
 img: assets/img/emg_placement.jpg
-redirect: https://unsplash.com
-importance: 3
+importance: 2
 category: work
 ---
 
