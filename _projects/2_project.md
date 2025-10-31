@@ -3,7 +3,7 @@ layout: page
 title: Online Smooth Convex Optimization
 description: Post-baccalaureate project
 img: assets/img/monkey.jpg
-importance: 2
+importance: 3
 category: work
 ---
 
