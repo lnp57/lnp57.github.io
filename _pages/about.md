@@ -27,5 +27,3 @@ Hi, I'm Lauren Peterson (she/her). I'm a graduate student at Rice University in 
 My research interests include analyzing dynamical systems and developing data-driven models to improve healthcare accessibility. As a graduate student, I have studied algorithms and data-driven modeling in a variety of health-based contexts.
 
 Prior to Rice University, I completed my B.S. in Electrical & Computer Engineering at the University of Washington, Seattle in 2022, and worked as a post-baccalaureate researcher at the Advanced AI Algorithms for Data Driven Discovery (A3D3) Institute. 
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
