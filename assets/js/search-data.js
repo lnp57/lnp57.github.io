@@ -64,16 +64,20 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-was-hired-as-a-post-baccalaureate-researcher-in-the-orsborn-lab-i-ll-also-be-part-of-the-accelerated-ai-algorithms-for-data-driven-discovery-a3d3-institute",
+          title: 'I was hired as a post-baccalaureate researcher in the Orsborn Lab! I’ll also...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-presented-my-conference-paper-assessing-human-feedback-parameters-for-disturbance-rejection-at-cphs-2022",
+          title: 'I presented my conference paper “Assessing Human Feedback Parameters for Disturbance Rejection” at...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-received-the-dean-s-prize-recruitment-fellowship-from-rice-university",
+          title: 'I received the Dean’s Prize Recruitment Fellowship from Rice University!',
+          description: "",
+          section: "News",},{id: "news-i-won-best-poster-second-place-and-the-people-s-choice-awards-for-my-poster-using-convex-feature-selection-to-improve-offline-movement-decoding-at-the-a3d3-high-throughput-ai-methods-and-infrastructure-workshop",
+          title: 'I won Best Poster: Second Place and the People’s Choice awards for my...',
+          description: "",
+          section: "News",},{id: "news-i-presented-a-poster-on-generating-novel-representative-gestures-from-kinomatics-data-at-teros-2024",
+          title: 'I presented a poster on “Generating Novel Representative Gestures from Kinomatics Data” at...',
           description: "",
           section: "News",},{id: "projects-personalized-biosignal-interfaces",
           title: 'Personalized Biosignal Interfaces',
@@ -97,7 +101,7 @@ ninja.data = [{
               window.location.href = "/projects/4_project/";
             },},{id: "projects-photography",
           title: 'Photography',
-          description: "a project with a background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-canyoneering",
@@ -110,14 +114,14 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%6C%61%75%72%65%6E%70%65%74%65%72%73%6F%6E%32%39%36@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://www.linkedin.com/in/lauren-peterson-865719174", "_blank");
         },
       },{
         id: 'social-rss',
@@ -131,14 +135,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=w1TM0IoAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
