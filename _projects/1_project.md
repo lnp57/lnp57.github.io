@@ -2,26 +2,14 @@
 layout: page
 title: Personalized Biosignal Interfaces
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/MethodsFig.PNG
 importance: 1
 category: work
 related_publications: true
 ---
 
-Humans interact with dynamic machines and devices, such as computers, quadrotors, and cars in daily life. These interactions give rise to a human-in-the-loop control system, where the human and the machine jointly accomplish a task through one or more sensorimotor loops. For instance, in trajectory-tracking tasks, people can visually observe the machine and provide input through a manual interface, such as a mouse, joystick, or steering wheel. 
+This study evaluates how human handedness impacts the way humans learn to control a novel system with dynamics.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -46,9 +34,7 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+A secondary analysis of the data analyzes how humans respond to feedback when using either a muscle or a manual interface.
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
