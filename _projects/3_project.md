@@ -3,7 +3,7 @@ layout: page
 title: EMG Designing for Diversity
 description: Graduate student project
 img: assets/img/emg_placement.jpg
-importance: 2
+importance: 1
 category: work
 ---
 
