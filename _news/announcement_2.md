@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dean's Prize
-date: 2023
+date: 2023-04-02
 inline: true
 related_posts: false
 ---
