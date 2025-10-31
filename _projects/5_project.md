@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Photography
-description: a project with a background image
+description: 
 img: assets/img/IMG_2188.JPG
 importance: 1
 category: fun
