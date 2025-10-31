@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A long announcement with details
+title: Dean's Prize
 date: 2023
 inline: true
 related_posts: false
