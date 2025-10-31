@@ -92,7 +92,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-generating-novel-representative-hand-gestures",
           title: 'Generating Novel Representative Hand Gestures',
-          description: "another without an image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-photography",
