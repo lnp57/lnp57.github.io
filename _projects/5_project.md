@@ -2,7 +2,7 @@
 layout: page
 title: Photography
 description: a project with a background image
-img: assets/img/2188.JPG
+img: assets/img/IMG_2188.JPG
 importance: 1
 category: fun
 ---
@@ -25,7 +25,7 @@ I enjoy taking photos of places I visit, whether around Houston or beyond.
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/IMG_1750.JPG" title="The Bean" class="img-fluid rounded z-depth-1" %}
     </div>
-    div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/IMG_3511.JPG" title="butterfly" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
