@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-04-20 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I was hired as a post-baccalaureate researcher in the Orsborn Lab! I'll also be part of the Accelerated AI Algorithms for Data-Driven Discovery (A3D3) Institute.
