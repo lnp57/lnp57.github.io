@@ -87,7 +87,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-emg-designing-for-diversity",
           title: 'EMG Designing for Diversity',
-          description: "a project that redirects to another website",
+          description: "Graduate student project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-generating-novel-representative-hand-gestures",
