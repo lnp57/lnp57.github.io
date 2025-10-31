@@ -102,7 +102,7 @@ ninja.data = [{
               window.location.href = "/projects/5_project/";
             },},{id: "projects-canyoneering",
           title: 'Canyoneering',
-          description: "a project with no image",
+          description: "Exploring Zion National Park",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{
