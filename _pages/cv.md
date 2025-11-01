@@ -1,1 +1,7 @@
-<a href="assets/pdf/LNP_CV.pdf" target="_blank" rel="noopener noreferrer">Download my CV </a>
+---
+layout: page
+title: CV
+permalink: /assets/pdf/LNP_CV.pdf
+nav: true
+nav_order: 5
+---
