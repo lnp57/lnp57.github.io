@@ -22,7 +22,7 @@ announcements:
 
 ---
 
-Hi, I'm Lauren Peterson (she/her). I'm a graduate student at Rice University in the Electrical Engineering & Computing Department.
+Hi, I'm Lauren Peterson (she/her). I'm a recently-graduated graduate student at Rice University in the Electrical Engineering & Computing Department.
 
 My research interests include analyzing dynamical systems and developing data-driven models to improve healthcare accessibility. As a graduate student, I have studied algorithms and data-driven modeling in a variety of health-based contexts.
 
